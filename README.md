@@ -24,3 +24,4 @@
 ###### A video can be deleted
 
 [Google Slides](https://docs.google.com/presentation/d/1sQOLI7CndLZ6BQUQBMclX3ZvLseggnIyF3XBBklCgoU/edit?usp=sharing)
+[Trello Board](https://trello.com/b/FPgFGjLE/pern-video-stack)
