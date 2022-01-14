@@ -23,4 +23,4 @@
 ## Delete
 ###### A video can be deleted
 
-[Link](https://docs.google.com/presentation/d/1sQOLI7CndLZ6BQUQBMclX3ZvLseggnIyF3XBBklCgoU/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/1sQOLI7CndLZ6BQUQBMclX3ZvLseggnIyF3XBBklCgoU/edit?usp=sharing)
