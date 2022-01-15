@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "history": "^5.2.0",
+    "react-query": "^3.34.8",
+    "react-router-dom": "^6.2.1",
+    "styled-components": "^5.3.3"
+  }
+}

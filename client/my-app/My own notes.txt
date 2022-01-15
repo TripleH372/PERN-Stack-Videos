@@ -1,0 +1,1 @@
+I moved the node modules, package.json, and package lock JSON file in the trash as I already have these files in my client folder.
